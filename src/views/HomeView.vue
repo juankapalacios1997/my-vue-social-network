@@ -1,7 +1,11 @@
 <template>
   <div class="home">
-    <h1>HOME</h1>
-    <img alt="Vue logo" src="../assets/logo.png">
+    <div class="jumbotron">
+      <div class="container text-center">
+        <h1>HOME</h1>
+        <img alt="Vue logo" src="../assets/logo.png">
+      </div>
+    </div>
   </div>
 </template>
 
